@@ -1,0 +1,38 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "precipitation": "none",
+  "temperature_modifier": "none",
+  "category": "desert",
+  "creature_spawn_probability": 0.1,
+  "effects": {
+    "sky_color": 13211667,
+    "fog_color": 4469769,
+    "water_color": 7367777,
+    "water_fog_color": 3155971,
+    "grass_color": 13989643,
+    "foliage_color": 7359744,
+    "grass_color_modifier": "dark_forest",
+    "particle": {
+      "options": {
+        "type": "white_ash"
+      },
+      "probability": 0.1
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave_extra_underground"
+    ]
+  },
+  "features": [
+    [
+      "minecraft:patch_dead_bush_2",
+      "minecraft:patch_dead_bush",
+      "minecraft:patch_dead_bush_badlands",
+      "minecraft:lake_lava_surface"
+    ]
+  ]
+}
