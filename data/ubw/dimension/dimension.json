@@ -1,0 +1,29 @@
+{
+  "type": {
+    "ultrawarm": false,
+    "natural": false,
+    "piglin_safe": false,
+    "respawn_anchor_works": false,
+    "bed_works": false,
+    "has_raids": false,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "coordinate_scale": 0.001,
+    "ambient_light": 0.2,
+    "fixed_time": 13500,
+    "logical_height": 256,
+    "effects": "minecraft:the_nether",
+    "infiniburn": "minecraft:infiniburn_nether",
+    "min_y": 0,
+    "height": 256
+  },
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 2130956,
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "ubw:reality-marble"
+    }
+  }
+}
